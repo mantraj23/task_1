@@ -1,0 +1,36 @@
+.componnt {
+  margin: 3% auto 2% 4%;
+}
+.compo-heading {
+  display: flex;
+  justify-content: center;
+  color: rgb(3, 25, 43);
+  height: 70px;
+  font-size: 2.5rem;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  padding: 16px;
+}
+
+.paper {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  text-align: center;
+  color: #666;
+  width: 90%;
+  height: 90%;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.step-number {
+  font-weight: bold;
+}
+.paperLinks {
+  text-decoration: none;
+  font-size: 1.4rem;
+  font-weight: 700;
+}

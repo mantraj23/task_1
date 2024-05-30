@@ -1,0 +1,46 @@
+.head-con {
+  height: 250px;
+  margin-top: 0;
+  padding-top: 0;
+  background-color: rgb(3, 25, 43);
+  color:#ace2ef
+}
+
+.head-top {
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+}
+.head-bot {
+  display: flex;
+  height: 80px;
+  justify-content: center;
+}
+
+.insightLink{
+    text-decoration: none;
+    color:#ace2ef;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.head-bot button {
+  border-color:#ace2ef;
+  color:#ace2ef;
+  cursor: pointer;
+  margin: 0 1% 0 1%;
+  height: 50%;
+  width:14%;
+  padding : 0 0 0 0 ;
+}
+
+.head-bot button.active {
+  background-color: #ace2ef; 
+  color:rgb(3, 25, 43); 
+}

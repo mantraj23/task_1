@@ -1,0 +1,26 @@
+.topbar {
+  background-color: whitesmoke;
+  color: black;
+}
+
+.toolb {
+  background-color: whitesmoke;
+  color: black;
+}
+
+.logo {
+  display: flex;
+  width: 40px;
+  margin-left: 10%;
+  margin-right: 1%;
+}
+.iconspo {
+  width: 100%;
+}
+.spo-heading {
+  text-align: center;
+}
+.contactb {
+  margin-right: 10%;
+  font-size: medium;
+}

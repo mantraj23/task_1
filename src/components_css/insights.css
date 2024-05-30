@@ -1,0 +1,47 @@
+.headspo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  color: #ace2ef;
+  background-color: rgb(3, 25, 43);
+  font-size: 4rem;
+}
+
+.listhead {
+  height: 70px;
+  color: rgb(3, 25, 43);
+  font-size: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.listCon{
+    margin: 2% 10% 2% 10%;
+}
+
+.list {
+  width: 100%;
+  background-color: #fff;
+}
+
+.listItem {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12); 
+}
+
+.listitemCon{
+    display: flex;
+    justify-content: left;
+}
+
+.date {
+  margin-right: 16px;
+}
+
+.heading {
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
